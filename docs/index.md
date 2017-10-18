@@ -24,3 +24,5 @@
   - [Basic demo](https://asciinema.org/a/JBsjOpah4nTBvjqDT5dAWvefG)
   - [Trello demo](https://github.com/technosophos/brigade-trello)
   - [Hello Helm](https://github.com/technosophos/hello-helm)
+- Videos
+  - [Trello, CosmosDB, Slack](https://osseu2017.blob.core.windows.net/videos/trello-brigade-demo.mp4)
