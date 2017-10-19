@@ -1,5 +1,7 @@
 # Demos for Open Source Summit EU 2017
 
+[Demo Video](https://osseu2017.blob.core.windows.net/videos/OSSEU-2017.mp4)
+
 ## Helm
 
 - [Home](http://helm.sh)
