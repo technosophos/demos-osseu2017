@@ -21,7 +21,7 @@
 ## Brigade
 - [Home](http://brigade.sh)
 - [GH](https://github.com/deis/brigade)
-- [Wallpaper](https://github.com/technosophos/demos-osseu2017/blob/master/images/fullscreen/brigade-screen.png)
+- [Wallpaper](https://github.com/technosophos/demos-osseu2017/blob/master/images/fullscreen/brigade-screen.jpg)
 - Demos
   - [Basic demo](https://asciinema.org/a/JBsjOpah4nTBvjqDT5dAWvefG)
   - [Trello demo](https://github.com/technosophos/brigade-trello)
