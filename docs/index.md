@@ -14,6 +14,7 @@
 - [Home](http://draft.sh)
 - [GH](https://github.com/Azure/draft)
 - [Wallpaper](https://github.com/technosophos/demos-osseu2017/blob/master/images/fullscreen/draft-screen.png)
+- [Demo: Install Guide (duration: 10m42s)](https://www.youtube.com/watch?v=-P3NKJ_hSUU)
 - Demos
   - [Basic demo](https://asciinema.org/a/WGVE7JNodpBEOautl105tdc97)
   - [New UI Preview](https://asciinema.org/a/gOLFZsGIUWEiehjJHaflmpLTX)
